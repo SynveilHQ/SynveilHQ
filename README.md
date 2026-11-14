@@ -14,6 +14,6 @@ Synveil makes production-ready kits for founders and small teams: the code, desi
 
 **[Synveil Complete](https://whop.com/synveil/synveil-complete/):** all five kits for $899, $346 less than buying them separately.
 
-Each repo above shows what's inside a kit, with real screenshots. The kits themselves are sold and delivered on Whop.
+Each repo above shows what's inside a kit. The kits themselves are sold and delivered on Whop.
 
 **Website: [synveil.whop.site](https://synveil.whop.site/)**
